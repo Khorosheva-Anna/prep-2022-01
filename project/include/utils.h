@@ -3,6 +3,7 @@
 
 #include<stdlib.h>
 #include<stdio.h>
+#include <stddef.h>
 
 size_t timer_from(int from);
 // TODO: Implement `power of` function
